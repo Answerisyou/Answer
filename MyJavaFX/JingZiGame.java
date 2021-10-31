@@ -1,3 +1,4 @@
+Hello world 7036!
 import javafx.application.Application;
 //井字棋
 import javafx.scene.Scene;
